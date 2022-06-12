@@ -1,0 +1,29 @@
+### Go ###
+# Binaries for programs and plugins
+golang-skeleton
+# Dependency directories
+vendor/
+# Output of the go coverage tool
+*.out
+*.html
+*.htm
+*.sum
+
+### Editor ###
+.vscode/
+.idea/
+.history/
+.lh/
+### Git ###
+.git/
+### Enviroment ###
+.env
+.env.*
+*env.json
+*credentials.json
+### SonarQube ###
+.scannerwork/
+### Other Files ###
+debug/
+__debug_bin
+go.sum
